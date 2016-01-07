@@ -22,5 +22,5 @@
         },
         "files": ["xunsearch-sdk/lib/XS.php"]
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "dev"
 }
