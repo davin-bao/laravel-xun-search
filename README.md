@@ -4,7 +4,6 @@ Laravel 5.1 XunSearch
 [![Latest Stable Version](https://poser.pugx.org/davin-bao/laravel-xun-search/v/stable.png)](https://packagist.org/packages/davin-bao/laravel-xun-search)
 [![Latest Unstable Version](https://poser.pugx.org/davin-bao/laravel-xun-search/v/unstable.png)](https://packagist.org/packages/davin-bao/laravel-xun-search)
 [![License](https://poser.pugx.org/davin-bao/laravel-xun-search/license.png)](https://packagist.org/packages/davin-bao/laravel-xun-search)
-[![Build Status](https://travis-ci.org/davin-bao/laravel-xun-search.svg?branch=master)](https://travis-ci.org/davin-bao/laravel-xun-search)
 [![Coverage Status](https://img.shields.io/coveralls/davin-bao/laravel-xun-search/master.svg?style=flat)](https://coveralls.io/r/davin-bao/laravel-xun-search?branch=master)
 
 Laravel 5.1 package for full-text search over Eloquent models based on XunSearch.
