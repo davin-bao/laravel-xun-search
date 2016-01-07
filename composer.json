@@ -1,0 +1,26 @@
+{
+    "name": "davin-bao/laravel-xun-search",
+    "description": "Laravel 5 package for full-text search over Eloquent models based on XunSearch.",
+    "keywords": ["laravel", "xunsearch", "eloquent", "search", "fulltext"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "davin bao",
+            "email": "davin.bao@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.1.*"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "DavinBao\\LaravelXunSearch\\": "src"
+        },
+        "files": ["xunsearch-sdk/lib/XS.php"]
+    },
+    "minimum-stability": "dev-master"
+}
